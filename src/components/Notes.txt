@@ -1,0 +1,6 @@
+1. download button in nav comp which downloads preview comp
+
+    apparently I have to use jspdf
+    so let's use it.
+
+2. forms shouldn't be submitted if required fields are blank.
